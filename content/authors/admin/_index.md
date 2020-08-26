@@ -1,8 +1,9 @@
 ---
 title: Yingling Mao
 role: PhD of Computer Engineering
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: mao.jpeg
+bio: My research interests include network function virtualization, edge
+  computing, cloud computing.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
