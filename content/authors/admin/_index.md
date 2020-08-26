@@ -2,21 +2,21 @@
 title: Yingling Mao
 role: PhD of Computer Engineering
 avatar_filename: mao.jpeg
-bio: My research interests include network function virtualization, edge
-  computing, cloud computing.
+bio: My research interests include network function virtualization,
+  software-defined network, edge computing.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Network Function Virtualization
+  - Software-Defined Network
+  - Edge Computing.
 social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
   - icon: gmail
-    icon_pack: far
+    icon_pack: fab
     link: yingling.mao@stonybrook.edu
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: fab
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
@@ -43,4 +43,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Yingling Mao is a PhD .D. candidate at Stony Brook University (SBU), advised by [Prof. Yuanyuan Yang](http://www.ece.stonybrook.edu/~yang). Her research interests include network function virtualization, software-defined network, cloud computing. Before joining SBU, she received the B.S. degree from Shanghai Jiao Tong University in 2018.
+Yingling Mao is a PhD .D. candidate at Stony Brook University (SBU), advised by [Prof. Yuanyuan Yang](http://www.ece.stonybrook.edu/~yang). Her research interests include network function virtualization, software-defined network, edge computing. Before joining SBU, she received the B.S. degree from Shanghai Jiao Tong University in 2018.
