@@ -43,7 +43,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Yingling Mao is a PhD .D. candidate at Stony Brook University (SBU), advised by [Prof. Yuanyuan Yang](http://www.ece.stonybrook.edu/~yang). Her research interests include network function virtualization, software-defined network, cloud computing. Before joining SBU, she received the B.S. degree from Shanghai Jiao Tong University in 2018.
