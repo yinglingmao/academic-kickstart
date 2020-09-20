@@ -31,7 +31,7 @@ education:
       institution: Shanghai Jiao Tong University
       year: 2018
 email: yingling.mao@stonybrook.edu
-superuser: true
+superuser: false
 authors:
   - admin
 user_groups:
