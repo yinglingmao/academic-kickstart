@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards"
 subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -19,33 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
+  organization = "Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment (CURE)"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Chun-Tsung Scholar"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  certificate_url = ""
+  date_start = "2016"
+  date_end = "2018"
+  description = "For the top 50 research topics from SJTU undergraduates"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "MCM"
+  organization_url = "https://www.comap.com/undergraduate/contests/mcm/"
+  title = "Honorable Mention in The Mathematics Contest in Modeling(MCM)"
+  url = ""
+  certificate_url = ""
+  date_start = "2016"
+  date_end = "2017"
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Zhiyuan College in Shanghai Jiao Tong University"
+  organization_url = "http://en.sjtu.edu.cn/academics/schools/zhiyuan-college/"
+  title = "Shanghai Jiao Tong University Zhiyuan honorary scholarship"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2015"
+  date_end = "2016"
+  description = "For the top $5\%$ SJTU undergraduates in Zhiyuan College"
 
 +++
