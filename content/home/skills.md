@@ -16,7 +16,7 @@ subtitle = ""
   
 [[feature]]
   icon = "function"
-  icon_pack = "fad"
+  icon_pack = "far"
   name = "Theoretical Modeling"
   description = "90%"  
   
