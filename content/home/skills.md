@@ -13,22 +13,10 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-
-[[feature]]
-  icon = "users"
-  icon_pack = "fas"
-  name = "Sociality"
-  description = "60%"
-  
-[[feature]]
-  icon = "handshake"
-  icon_pack = "far"
-  name = "Cooperation"
-  description = "80%"
   
 [[feature]]
   icon = "function"
-  icon_pack = "fas"
+  icon_pack = "fad"
   name = "Theoretical Modeling"
   description = "90%"  
   
