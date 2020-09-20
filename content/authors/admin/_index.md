@@ -38,3 +38,5 @@ user_groups:
   - ""
 ---
 Yingling Mao is a PhD .D. candidate at Stony Brook University (SBU), advised by [Prof. Yuanyuan Yang](http://www.ece.stonybrook.edu/~yang). Her research interests include network function virtualization, software-defined network, edge computing. Before joining SBU, she received the B.S. degree from Shanghai Jiao Tong University in 2018.
+
+Yingling's current research focused on network function virtualization, particularly the deployment problem of virtual network functions. 
